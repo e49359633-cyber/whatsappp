@@ -8,7 +8,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # ===================== НАСТРОЙКИ =====================
-TOKEN = "8690563235:AAFKo8Yw0xtdM2aDEoXU32DpRaKRTrTf-cQ"               # ← Вставь свой настоящий токен сюда
+TOKEN = ""               # ← Вставь свой настоящий токен сюда
 ADMIN_ID = 8209617821                       # ← Твой Telegram ID
 logging.basicConfig(level=logging.INFO)
 
